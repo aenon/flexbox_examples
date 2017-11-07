@@ -1,12 +1,8 @@
 # Flexbox Examples
 
-Some real world examples, build with flexbox. View the tutorials here:
+These examples are forked from https://github.com/callmenick/Flexbox-Examples.git
 
-* Part 1 - [callmenick.com/post/flexbox-examples](http://callmenick.com/post/flexbox-examples)
-
-## Live Demo
-
-View the live demos here:
+The tutorials from the original author [Call Me Nick.](http://callmenick.com) are no longer available.
 
 * Part 1 - [callmenick.com/_development/flexbox-examples/](http://callmenick.com/_development/flexbox-examples/)
 
